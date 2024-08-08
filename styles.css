@@ -1,0 +1,89 @@
+h1{
+    font-family: Consolas, monaco, monospace;
+    font-size: 40px;
+    color: white;
+}
+h2{
+    font-family: Consolas, monaco, monospace;
+    font-size: 30px;
+    color: lightcoral;
+}
+.pr{
+    background-color: lightcoral;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans serif;
+    font-size: 15px;
+    color: white;
+}
+.exp{
+    background-color: white;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+#bdr{
+    padding: 0px 0px 20px 20px;
+    border-color: white;
+    border-style: dashed;
+    border-radius: 15px 15px 15px 15px;
+}
+#bdr2{
+    padding: 0px 0px 20px 20px;
+    border-color: lightcoral;
+    border-style: dashed;
+    border-radius: 15px 15px 15px 15px;
+}
+#legend1 {
+    text-align: right;
+}
+#legend2{
+    text-align: left;
+}
+.exp{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans serif;
+    font-size: 15px;
+    color: lightcoral;
+}
+.button1 {
+    display: inline-block;
+    position: relative;
+}
+.button2 {
+    display: inline-block;
+    position: relative;
+}
+.gbwt {
+    display: block;
+    width: 50px; 
+    height: auto; 
+    transition: opacity 0.3s ease; 
+}
+.inwt {
+    display: block;
+    width: 51px; 
+    height: auto; 
+    transition: opacity 0.3s ease; 
+}
+.button1:hover .gbwt {
+    opacity: 0.5; 
+}
+.button2:hover .inwt {
+    opacity: 0.5; 
+}
+.container{
+    background-color: lightcoral;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 4.7em;
+    padding-bottom: 4.7em;
+    text-align: center;
+}
+h3{
+  color: white;
+  font-family: Consolas, monaco, monospace;
+}
+ 
